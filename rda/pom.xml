@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <name>rda Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  
+  <scm>
+  	<url>https://github.com/rsyromyatnikov/RDA</url>
+		<connection>scm:git:git://github.com/rsyromyatnikov/RDA.git</connection>
+	</scm>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
